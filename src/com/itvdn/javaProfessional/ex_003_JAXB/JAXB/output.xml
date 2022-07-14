@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <album>
+        <price>40.55</price>
+        <publish_date>2022-07-14T16:24:19.364+02:00</publish_date>
+        <singer>Author1</singer>
+        <title>Title1</title>
+    </album>
+    <album>
+        <price>30.0</price>
+        <publish_date>2022-07-14T16:24:19.365+02:00</publish_date>
+        <singer>Author2</singer>
+        <title>Title2</title>
+    </album>
+</shop>
